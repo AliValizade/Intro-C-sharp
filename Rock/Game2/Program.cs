@@ -33,8 +33,7 @@ namespace Game2
                 }
                 else if (computer_choice == "Paper" && user_choice == "Paper")
                 {
-                    computer_score++;
-                    user_score++;
+                    //Nothing
                 }
                 else if (computer_choice == "rock" && user_choice == "Paper")
                 {
@@ -46,8 +45,7 @@ namespace Game2
                 }
                 else if (computer_choice == "rock" && user_choice == "rock")
                 {
-                    computer_score++;
-                    user_score++;
+                    //Nothing
                 }
                 else if (computer_choice == "Scissor" && user_choice == "rock")
                 {
@@ -59,8 +57,7 @@ namespace Game2
                 }
                 else if (computer_choice == "Scissor" && user_choice == "Scissor")
                 {
-                    computer_score++;
-                    user_score++;
+                    //Nothing
                 }
             }
             if (user_score > computer_score)
