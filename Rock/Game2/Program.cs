@@ -36,20 +36,6 @@ namespace Game2
                     computer_score++;
                     user_score++;
                 }
-                else if (computer_choice == "Scissor" && user_choice == "rock")
-                {
-                    user_score++;
-                }
-                else if (computer_choice == "Scissor" && user_choice == "Paper")
-                {
-                    computer_score++;
-                }
-                else if (computer_choice == "Scissor" && user_choice == "Scissor")
-                {
-                    computer_score++;
-                    user_score++;
-                }
-
                 else if (computer_choice == "rock" && user_choice == "Paper")
                 {
                     user_score++;
@@ -59,6 +45,19 @@ namespace Game2
                     computer_score++;
                 }
                 else if (computer_choice == "rock" && user_choice == "rock")
+                {
+                    computer_score++;
+                    user_score++;
+                }
+                else if (computer_choice == "Scissor" && user_choice == "rock")
+                {
+                    user_score++;
+                }
+                else if (computer_choice == "Scissor" && user_choice == "Paper")
+                {
+                    computer_score++;
+                }
+                else if (computer_choice == "Scissor" && user_choice == "Scissor")
                 {
                     computer_score++;
                     user_score++;
