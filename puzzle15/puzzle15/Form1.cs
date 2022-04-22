@@ -73,7 +73,10 @@ namespace puzzle15
                 }
 
             }
-            Console.WriteLine("you win.");
+            if (k == 17)
+            {
+                MessageBox.Show("you win.");
+            }
         }
         public void new_game()
         {
