@@ -1,3 +1,0 @@
-﻿1>------ Build started: Project: ConsoleApplication2, Configuration: Debug Any CPU ------
-1>  ConsoleApplication2 -> D:\EBook\Learning Computer\Sajjad University\Term01-Bahman1400\Game develoment\C#\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
