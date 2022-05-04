@@ -2,8 +2,8 @@ D:\EBook\Learning Computer\Sajjad University\Term01-Bahman1400\Game develoment\C
 D:\EBook\Learning Computer\Sajjad University\Term01-Bahman1400\Game develoment\C#\Sudoku\Sudoku\bin\Debug\Sudoku.exe
 D:\EBook\Learning Computer\Sajjad University\Term01-Bahman1400\Game develoment\C#\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
 D:\EBook\Learning Computer\Sajjad University\Term01-Bahman1400\Game develoment\C#\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
-D:\EBook\Learning Computer\Sajjad University\Term01-Bahman1400\Game develoment\C#\Sudoku\Sudoku\obj\Debug\Sudoku.Form1.resources
 D:\EBook\Learning Computer\Sajjad University\Term01-Bahman1400\Game develoment\C#\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
 D:\EBook\Learning Computer\Sajjad University\Term01-Bahman1400\Game develoment\C#\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
 D:\EBook\Learning Computer\Sajjad University\Term01-Bahman1400\Game develoment\C#\Sudoku\Sudoku\obj\Debug\Sudoku.exe
 D:\EBook\Learning Computer\Sajjad University\Term01-Bahman1400\Game develoment\C#\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+D:\EBook\Learning Computer\Sajjad University\Term01-Bahman1400\Game develoment\C#\Sudoku\Sudoku\obj\Debug\Sudoku.Sudoku.resources
