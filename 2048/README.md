@@ -9,6 +9,8 @@
 ---
 
 ![Screen Shot](Capture.JPG)
+![Screen Shot](Capture1.JPG)
+![Screen Shot](Capture2.JPG)
 
 ## Windows form application, C#
 
